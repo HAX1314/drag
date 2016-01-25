@@ -35,8 +35,10 @@
         <entry file="file://$PROJECT_DIR$/js/drag.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#drag#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,8 +59,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/drag.js" />
         <option value="$PROJECT_DIR$/demo1.html" />
+        <option value="$PROJECT_DIR$/js/drag.js" />
       </list>
     </option>
   </component>
@@ -219,8 +221,10 @@
     <entry file="file://$PROJECT_DIR$/js/drag.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#drag#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
