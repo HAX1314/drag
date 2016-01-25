@@ -2,5 +2,8 @@
  * Created by XiaHao on 2016/1/25.
  */
 function drag(){
-
+    var obj = document.getElementById("div1");
+    obj.onmousedown = function(){
+        
+    }
 }
