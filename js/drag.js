@@ -8,5 +8,9 @@ function drag(){
     obj.onmousedown = function(){
         disX = ev.pageX-obj.offsetLeft;
         disY = ev.pageY-obj.offsetTop;
+        document.onmousemove = function(ev){
+            obj.style.left = ev.clinetX - disX + 'px';
+            obj.style.top = ev.clinetY - disY + 'px';
+        }
     }
 }
